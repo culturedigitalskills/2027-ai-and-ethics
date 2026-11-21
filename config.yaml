@@ -1,0 +1,83 @@
+#------------------------------------------------------------
+# Values for this lesson.
+#------------------------------------------------------------
+
+# Which carpentry is this (swc, dc, lc, or cp)?
+# swc: Software Carpentry
+# dc: Data Carpentry
+# lc: Library Carpentry
+# cp: Carpentries (to use for instructor training for instance)
+# incubator: The Carpentries Incubator
+carpentry: 'incubator'
+
+# Overall title for pages.
+title: 'AI and ethics'
+
+# Date the lesson was created (YYYY-MM-DD, this is empty by default)
+created: '2026-11-21'
+
+# Comma-separated list of keywords for the lesson
+keywords: 'AI, AI ethics, responsible AI, consent, CARE principles, bias, data protection, sensitive data, ethics application, cultural heritage'
+
+# Life cycle stage of the lesson
+# possible values: pre-alpha, alpha, beta, stable
+life_cycle: 'pre-alpha'
+
+# License of the lesson materials (recommended CC-BY 4.0)
+license: 'CC-BY 4.0'
+
+# Link to the source repository for this lesson
+source: 'https://github.com/culturedigitalskills/2027-ai-and-ethics'
+
+# Default branch of your lesson
+branch: 'main'
+
+# Who to contact if there are any issues
+contact: 'K.Rodriguez@brighton.ac.uk'
+
+# Navigation ------------------------------------------------
+#
+# Use the following menu items to specify the order of
+# individual pages in each dropdown section. Leave blank to
+# include all pages in the folder.
+#
+# Example -------------
+#
+# episodes:
+# - Progressive workflows.md
+# - Test and discuss.md
+# - Further resources.md
+#
+# learners:
+# - setup.md
+#
+# instructors:
+# - instructor-notes.md
+#
+# profiles:
+# - one-learner.md
+# - another-learner.md
+
+# Order of episodes in your lesson
+episodes:
+- 01-responsible-ai.Rmd
+- 02-whose-permission.Rmd
+- 03-bias.Rmd
+- 04-sensitive-material.Rmd
+- 05-ethics-application.Rmd
+
+# Information for Learners
+learners:
+
+# Information for Instructors
+instructors:
+
+# Learner Profiles
+profiles:
+
+# Customisation ---------------------------------------------
+#
+# This space below is where custom yaml items (e.g. pinning
+# sandpaper and varnish versions) should live
+
+
