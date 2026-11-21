@@ -1,0 +1,19 @@
+To reference information about this resource, please cite:
+
+TODO (co-design): add co-authors after Karina Rodriguez Echavarria.
+
+Karina Rodriguez Echavarria et al. "AI and ethics".
+2026. https://github.com/culturedigitalskills/2027-ai-and-ethics
+
+@online{rodriguez-ai-ethics-26,
+  author      = {Karina {Rodriguez Echavarria} and others},
+  title       = {AI and ethics},
+  year        = {2026},
+  url         = {https://github.com/culturedigitalskills/2027-ai-and-ethics},
+}
+
+Title: AI and ethics
+Authors: Karina Rodriguez Echavarria, [TODO (co-design): add co-authors]
+Resource organisation: [Digital Skills in Arts and Humanities (DISKAH)](https://www.culturedigitalskills.org)
+Keywords: AI, AI ethics, responsible AI, consent, CARE principles, bias, data protection, sensitive data, ethics application, cultural heritage
+License: CC-BY 4.0
