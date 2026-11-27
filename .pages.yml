@@ -1,0 +1,35 @@
+media:
+  input: episodes/fig
+  output: fig
+settings:
+  commit:
+    identity: user
+content:
+  - name: episodes
+    label: Episodes
+    type: collection
+    path: episodes
+    format: yaml-frontmatter
+    filename: "{primary}.Rmd"
+    fields:
+      - name: title
+        type: string
+      - name: teaching
+        type: number
+      - name: exercises
+        type: number
+      - name: body
+        type: rich-text
+        options:
+          format: markdown
+  - name: learners
+    label: Learner pages
+    type: collection
+    path: learners
+    fields:
+      - name: title
+        type: string
+      - name: body
+        type: rich-text
+        options:
+          format: markdown
